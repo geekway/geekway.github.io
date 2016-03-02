@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "geekway"
+title:      "极客方式开场白"
 subtitle:   "geekway"
 date:       2016-03-01 09:44:38
 author:     "geekway"
