@@ -12,3 +12,5 @@ tags:
 ---
 ## 这里仅仅是测试
 hello world.
+
+这是一个静态博客，在github page上托管，使用的是Jekyll模板，感谢由Huxpro贡献。
