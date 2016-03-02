@@ -4,7 +4,7 @@ title:      "第00期：markdown的胜利"
 subtitle:   "极客必备，为什么markdown比word简单好用？"
 date:       2016-03-02 18:44:38
 author:     "geekway"
-header-img: "img/post-bg-re-vs-ng2.jpg"
+header-img: "img/markdown.png"
 header-mask: 0.3
 tags:
     - 极客方式
